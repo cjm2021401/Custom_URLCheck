@@ -1,0 +1,12 @@
+{
+    "influxdb":{
+        "url" : "",
+        "token": "",
+        "org": "",
+        "bucket" : ""
+    },
+    "slack":{
+        "token" : "",
+        "channel":""
+    }
+}

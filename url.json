@@ -1,0 +1,28 @@
+{
+    "urls":[
+        {
+            "name" : "naver",
+            "url" : "www.naver.com",
+            "timeout" : 3,
+            "alert": [
+                "4xx",
+                "5xx",
+                "unknown"
+            ]
+        },
+        {
+            "name" : "instagram",
+            "url" : "www.instagram.com"
+        },
+        {
+            "name" : "test",
+            "url" : "www.testtttte.com",
+            "timeout" : 4,
+            "alert": [
+                "2xx",
+                "4xx",
+                "unknown"
+            ]
+        }
+    ]
+}
